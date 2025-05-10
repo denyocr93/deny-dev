@@ -42,7 +42,7 @@ University of Indonesia
 - Created a simple and efficient algorithm for currency calculations
 - Applied string formatting to display monetary values appropriately
 - Designed for easy extension to support additional currencies in future updates
-- Code available at: [currency_converter.dart](currency_converter.dart)
+- Code available at: [currency_converter.dart](https://github.com/denyocr93/deny-dev/tree/main/currency_converter)
 
 
 ### E-Commerce Mobile App
