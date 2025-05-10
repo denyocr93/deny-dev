@@ -36,6 +36,15 @@ University of Indonesia
 - Fixed bugs and improved application performance
 
 ## Projects
+### Currency Converter
+- Developed a command-line currency converter application using Dart
+- Implemented conversion from Indonesian Rupiah (IDR) to US Dollar (USD)
+- Created a simple and efficient algorithm for currency calculations
+- Applied string formatting to display monetary values appropriately
+- Designed for easy extension to support additional currencies in future updates
+- Code available at: [currency_converter.dart](currency_converter.dart)
+
+
 ### E-Commerce Mobile App
 - Developed a Flutter-based e-commerce application with product catalog and shopping cart
 - Implemented user authentication using Firebase Auth
