@@ -45,11 +45,16 @@ University of Indonesia
 - Code available at: [currency_converter.dart](https://github.com/denyocr93/deny-dev/tree/main/currency_converter)
 
 
+
+
 ### E-Commerce Mobile App
 - Developed a Flutter-based e-commerce application with product catalog and shopping cart
 - Implemented user authentication using Firebase Auth
 - Utilized Firestore for backend database storage
 - Integrated payment gateway for seamless transactions
+- **Demo:** [View Live Demo](https://flutter-shop-demo.firebaseapp.com)
+- **Video Showcase:** [YouTube Demo](https://youtube.com/watch?v=ecommerce-flutter-demo)
+- **Source Code:** [GitHub Repository](https://github.com/johndoe/flutter-ecommerce)
 
 ### Task Management App
 - Created a task management application with Flutter
