@@ -44,7 +44,12 @@ University of Indonesia
 - Designed for easy extension to support additional currencies in future updates
 - Code available at: [currency_converter.dart](https://github.com/denyocr93/deny-dev/tree/main/currency_converter)
 
-
+### To-Do List App
+- Developed a web-based to-do list application using modern web technologies
+- Implemented features for adding, editing, and deleting tasks
+- Designed a responsive and user-friendly interface
+- Deployed the application using Vercel for seamless access
+- **Live Demo:** [To-Do List App](https://todolist-4qcw6lw0y-denys-projects-0fbe5259.vercel.app/)
 
 
 ### E-Commerce Mobile App
@@ -55,6 +60,14 @@ University of Indonesia
 - **Demo:** [View Live Demo](https://flutter-shop-demo.firebaseapp.com)
 - **Video Showcase:** [YouTube Demo](https://youtube.com/watch?v=ecommerce-flutter-demo)
 - **Source Code:** [GitHub Repository](https://github.com/johndoe/flutter-ecommerce)
+
+### Supabase Integration Project
+- Developed a full-stack application using Flutter and Supabase for backend services
+- Implemented real-time data synchronization and user authentication
+- Created a responsive design that works across multiple device sizes
+- Deployed the application using Vercel for continuous delivery
+- **Live Demo:** [Supabase App](https://supabase-app-ecru.vercel.app/)
+- **Technologies used:** Flutter, Supabase, Vercel
 
 ### Task Management App
 - Created a task management application with Flutter
